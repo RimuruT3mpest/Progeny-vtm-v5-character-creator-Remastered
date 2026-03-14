@@ -82,7 +82,7 @@ Progeny lets you export your character to several formats:
 
 
 ## Credits & Acknowledgements
-* VtM is owned by https://www.worldofdarkness.com/dark-pack
+* WoD is owned by [Paradox Interactive](https://www.paradoxinteractive.com/games/world-of-darkness/about)
 * The PDF template used for exporting is made by [Nerdbert](https://linktr.ee/nerdbert)
 * CheckSolid.base64 is converted from fontawesome
 * FavIcon, Discipline-Icons, dice result icons provided by [Nerdbert](https://drive.google.com/drive/folders/166CN03nsT6VF-cjjttS0uBfvMZRoNqgK)
