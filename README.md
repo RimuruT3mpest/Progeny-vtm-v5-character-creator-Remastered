@@ -90,6 +90,7 @@ Progeny lets you export your character to several formats:
 * FavIcon, Discipline-Icons, dice result icons provided by [Nerdbert](https://drive.google.com/drive/folders/166CN03nsT6VF-cjjttS0uBfvMZRoNqgK)
 * Background images by Aleksandr Popov, Amber Kipp, Dominik Hofbauer, Marcus Bellamy, Peter Scherbatykh, Thomas Le on [unsplash](unsplash.com)
 * Roboto font from https://fonts.google.com/specimen/Roboto
+* Structure from Odin: https://progeny.odin-matthias.de and SRparadox: https://srparadox.github.io/Updated-VTM-5-Creator/
 
 <p align="center">
 <img src="./readme_assets/darkpack_logo1.png" height="400">
